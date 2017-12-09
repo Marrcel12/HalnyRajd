@@ -125,6 +125,6 @@ input[class*="content"]{
     color: white;
     text-align: center;
 }
-.social a{
+#mediasocial a{
     text-decoration: none;
 }
