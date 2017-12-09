@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    font-family: 'Barlow Semi Condensed';
+    color: #fbe9e9;
+
+}
+
+#maincontainer {
+    height: 100vh;
+    position: relative;
+}
+
+.content1 {
+    position: relative;
+    height: 25vh;
+    background-color: #887171;
+    text-align: center;
+    padding-top: 10px;
+}
+/*tytuł*/
+.content1 h1{
+    text-align: center;
+}
+
+.backgroundParalax1 {
+    height: 100vh;
+    background-image: url("../img/121752360.jpg");
+    background-position: center;
+    background-size: cover;
+        background-attachment: fixed;
+
+}
+
+
+
+
+.content2 {
+    position: relative;
+    height: 50vh;
+    background-color: #887171;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.backgroundParalax2 {
+    height: 100vh;
+    background-image: url("../img/Zakupy-na-kartki-dlugie-kolejki-i-inne-absurdy-PRL-u.png");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
+.content3 {
+    position: relative;
+    height: 50vh;
+    background-color: #887171;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 24px;
+    padding-left: 40px;
+}
+.content3 content{
+    height: 100%;
+    width: 50%;
+    
+}
+/*formularz*/
+input{
+    background-color: #906a6a;
+    border-style: none;
+    height: 20px;
+}
+input:hover   {
+   background-color:  #887171;
+    border-style: ridge;
+    border-color: white;
+}
+.form{
+    height: 100%;
+    width: 50%;
+    float: left;
+    
+}
+
+.backgroundParalax3 {
+    height: 100vh;
+    background-image: url("../img/5361144b97980_o,size,1068x623,q,71,h,afcfd5.jpg");
+    background-position: center;
+    background-size: cover;
+        background-attachment: fixed;
+
+}
