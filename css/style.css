@@ -107,14 +107,6 @@ input[class*="content"]{
     font-size: 18px;
 }
 
-.backgroundParalax3 {
-    height: 100vh;
-    background-image: url("../img/5361144b97980_o,size,1068x623,q,71,h,afcfd5.jpg");
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-
-}
 /* SocialMedia*/
 #mediasocial{
     position: relative;
@@ -128,3 +120,12 @@ input[class*="content"]{
 #mediasocial a{
     text-decoration: none;
 }
+.backgroundParalax3 {
+    height: 100vh;
+    background-image: url("../img/5361144b97980_o,size,1068x623,q,71,h,afcfd5.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
